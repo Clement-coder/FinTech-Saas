@@ -5,7 +5,7 @@
     "vite": "^6.1.1"
   },
   "scripts": {
-    "dev": "npx tailwindcss -i ./src/style.css -o ./dist/style.css --watch"
+    "dev": "npx tailwindcss -i ./src/style.css -o /style.css --watch"
   },
   "name": "fintech",
   "version": "1.0.0",
